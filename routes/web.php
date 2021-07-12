@@ -8,8 +8,8 @@ use App\Http\Controllers\EleveController;
 
 Route::get('/', function(){
     return view('welcome' , [
-        'name' => 'Bynan',
-        'prenom' => 'Niaina',
+        'name' => 'Faniry',
+        'prenom' => 'Soa',
     ]);
 });
 
